@@ -15,14 +15,14 @@
 <details>
 <summary>Github Stats</summary>
     <p>
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=jhaimecando27">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaimecando27">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=jhaimecando27&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaimecando27&show_icons=true&theme=tokyonight">
     </p>
 </details>
 
 <details>
     <summary>Wakatime Stats</summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhaimecando">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhaimecando&show_icons=true&theme=tokyonight">
 </details>
 
 
@@ -30,18 +30,18 @@
     <summary>Wakatime Charts</summary>
     <p>
         <a href="https://wakatime.com/@jhaimecando">
-          <img align="left" width="45%" height="auto" src="https://wakatime.com/share/@jhaimecando/a635624a-5955-43e5-9e2f-444670e2bca1.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/a1430fc9-62bb-40a7-9a6e-d047c03e2f2c.svg" />
         </a>
         <a href="https://wakatime.com/@jhaimecando">
-          <img align="right" width="45%" height="auto" src="https://wakatime.com/share/@jhaimecando/c357d5ea-7696-4c58-bf29-9fc80786ed9f.svg"" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/82848573-788b-484f-8c57-d43966b7cb09.svg" />
         </a>
     </p>
     <p>
         <a href="https://wakatime.com/@jhaimecando">
-          <img align="left" width="45%" height="auto" src="https://wakatime.com/share/@jhaimecando/b811378b-f32c-4c3b-8fe4-5fbc5b008163.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/7b069387-a6ab-4ab9-9a72-079c258c15c2.svg" />
         </a>
         <a href="https://wakatime.com/@jhaimecando">
-          <img align="right" width="45%" height="auto" src="https://wakatime.com/share/@jhaimecando/604e5144-0fe1-47d8-833b-ccbf4760de18.svg"" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/20963553-374f-481a-8785-8520b98de1ee.svg"" />
         </a>
     </p>
 </details>
