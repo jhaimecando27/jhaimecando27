@@ -3,6 +3,8 @@
 - 🌱 I’m currently 3rd year college student majoring in Computer Science
 - 🔭 I’m also currently taking CS50x
 
+[![wakatime](https://wakatime.com/badge/user/cf082076-601c-4b54-a8e6-e4119034e4fd.svg)](https://wakatime.com/@cf082076-601c-4b54-a8e6-e4119034e4fd)
+
 <details>
 <summary>Goal</summary>
 
@@ -22,7 +24,9 @@
 
 <details>
     <summary>Wakatime Stats</summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jhaimecando&show_icons=true&theme=tokyonight">
+    <a href="https://wakatime.com/@jhaimecando">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jhaimecando&show_icons=true&theme=tokyonight">
+    </a>
 </details>
 
 
