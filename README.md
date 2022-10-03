@@ -30,18 +30,18 @@
     <summary>Wakatime Charts</summary>
     <p>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/a1430fc9-62bb-40a7-9a6e-d047c03e2f2c.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/a11ff4ae-dd8b-4010-b871-726ef91079cf.svg" />
         </a>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/82848573-788b-484f-8c57-d43966b7cb09.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/2a07404e-d53b-442f-9fe3-f335f43968b5.svg" />
         </a>
     </p>
     <p>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/7b069387-a6ab-4ab9-9a72-079c258c15c2.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/2b269ff8-05a6-4d20-a899-c03be5833675.svg" />
         </a>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/20963553-374f-481a-8785-8520b98de1ee.svg"" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/f486dd0b-ef02-4794-b020-e47d84d68354.svg" />
         </a>
     </p>
 </details>
