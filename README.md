@@ -22,7 +22,7 @@
 
 <details>
     <summary>Wakatime Stats</summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhaimecando&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jhaimecando&show_icons=true&theme=tokyonight">
 </details>
 
 
