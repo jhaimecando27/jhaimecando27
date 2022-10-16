@@ -4,7 +4,6 @@
 - 🔭 I’m also currently taking CS50x
 
 [![wakatime](https://wakatime.com/badge/user/cf082076-601c-4b54-a8e6-e4119034e4fd.svg)](https://wakatime.com/@cf082076-601c-4b54-a8e6-e4119034e4fd)
-
 ---
 
 <details>
@@ -36,18 +35,18 @@
     <summary>Wakatime Charts</summary>
     <p>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/a11ff4ae-dd8b-4010-b871-726ef91079cf.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/4a7cdb62-d1b2-4521-b95f-69b562347253.svg" />
         </a>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/2a07404e-d53b-442f-9fe3-f335f43968b5.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/75cc0fc4-7eb5-4cc7-815d-37383ce6a193.svg" />
         </a>
     </p>
     <p>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/2b269ff8-05a6-4d20-a899-c03be5833675.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/c576847c-bbb5-4677-a58d-35caa73836f1.svg" />
         </a>
         <a href="https://wakatime.com/@jhaimecando">
-          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/f486dd0b-ef02-4794-b020-e47d84d68354.svg" />
+          <img width="49%" height="auto" src="https://wakatime.com/share/@jhaimecando/93fe976c-935b-462c-996c-62f5db649e62.svg" />
         </a>
     </p>
 </details>
