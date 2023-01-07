@@ -9,7 +9,7 @@
 <details>
 <summary>Goal</summary>
 
-- [ ] CS50x
+- [X] CS50x
 - [ ] CS50p
 - [ ] 3 Major Projects
 
