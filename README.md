@@ -1,18 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently 3rd year college student majoring in Computer Science
+🌱 Computer Science student seeking a Software Development role. Passionate about transforming ideas into functional applications through creative problem-solving and strong technical implementation.
 
-[![wakatime](https://wakatime.com/badge/user/cf082076-601c-4b54-a8e6-e4119034e4fd.svg)](https://wakatime.com/@cf082076-601c-4b54-a8e6-e4119034e4fd)
 ---
-
-<details>
-<summary>Goal</summary>
-
-- [X] CS50x
-- [ ] CS50p
-- [ ] 3 Major Projects
-
-</details>
 
 <details>
 <summary>Github Stats</summary>
